@@ -35,15 +35,15 @@ Answer_here.
 
 ### Complexity
 
-- Simple
-- Intermediate
-- Advanced
+- [ ] Simple
+- [ ] Intermediate
+- [ ] Advanced
 
 ### Required time (ETA)
 
-- Little work - A couple of days
-- Medium work - A week or two
-- Much work - More than a couple of weeks and serious planning is required
+- [ ] Little work - A couple of days
+- [ ] Medium work - A week or two
+- [ ] Much work - More than a couple of weeks and serious planning is required
 
 ### Categories
 
@@ -52,8 +52,8 @@ Answer_here.
 - [ ] Frontend/UI
 - [ ] Developer Tooling
 - [ ] APIs/Backend
-- [ ] Web app
-- [ ] Mobile app
+- [ ] Web Application
+- [ ] Mobile Application
 - [ ] Extension/Plugin/Add-On
 - [ ] IoT
 - [ ] AI/ML
