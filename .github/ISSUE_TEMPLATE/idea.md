@@ -1,6 +1,6 @@
 ---
 name: 🚀 New Idea
-about: I have a cool idea 👶
+about: Template for a new project idea.
 ---
 
 # Description
@@ -15,19 +15,19 @@ Answer_here.
 
 Answer_here.
 
-## What other resources / tools are currently serving the same need?
+## What other resources/tools are currently serving the same need?
 
 Answer_here.
 
 ## How does this project set itself apart?
 
-Answer_here.
+Answer_with_links_here.
 
-## Where can we find any research / data / articles etc.?
+## Where can we find any research/data/articles etc.?
 
 Links_here.
 
-## What language, platform, any library / framework etc. it is based on?
+## What language, what platform, any library/framework it is based on?
 
 Answer_here.
 
@@ -47,17 +47,17 @@ Answer_here.
 
 ### Categories
 
-- [ ] Futuristic Tech / Something Unique
-- [ ] Design / UX
-- [ ] Frontend / UI
+- [ ] Futuristic Tech/Something Unique
+- [ ] Design/UX
+- [ ] Frontend/UI
 - [ ] Developer Tooling
-- [ ] APIs / Backend
+- [ ] APIs/Backend
 - [ ] Web app
 - [ ] Mobile app
 - [ ] Extension/Plugin/Add-On
 - [ ] IoT
-- [ ] AI / ML
-- [ ] AR / VR
+- [ ] AI/ML
+- [ ] AR/VR
 - [ ] Bots
 - [ ] Security
 - [ ] Blockchain
