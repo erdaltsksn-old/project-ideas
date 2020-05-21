@@ -13,37 +13,37 @@ Answer_here.
 
 ## Who will benefit (directly and indirectly) from the project?
 
-Answer_here.
+- Answer_here
 
 ## What other resources/tools are currently serving the same need?
 
-Answer_here.
+- [Answer_here](Answer_here)
 
 ## How does this project set itself apart?
 
-Answer_with_links_here.
+Answer_here.
 
 ## Where can we find any research/data/articles etc.?
 
-Links_here.
+- [Answer_here](Answer_here)
 
 ## What language, what platform, any library/framework it is based on?
 
-Answer_here.
+- [Answer_here](Answer_here)
 
 ## Complexity and required time
 
 ### Complexity
 
-- [ ] Simple
-- [ ] Intermediate
-- [ ] Advanced
+- Simple
+- Intermediate
+- Advanced
 
 ### Required time (ETA)
 
-- [ ] Little work - A couple of days
-- [ ] Medium work - A week or two
-- [ ] Much work - More than a couple of weeks and serious planning is required
+- Little work - A couple of days
+- Medium work - A week or two
+- Much work - More than a couple of weeks and serious planning is required
 
 ### Categories
 
@@ -62,3 +62,7 @@ Answer_here.
 - [ ] Security
 - [ ] Blockchain
 - [ ] Voice Assistant
+
+## MVP Specifications
+
+- [ ] Answer_here
