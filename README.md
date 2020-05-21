@@ -1,5 +1,8 @@
 # Project Ideas
 
+[![Create](https://img.shields.io/badge/Create%20A%20New%20Idea-f27e63?style=for-the-badge)](../../issues/new?template=idea.md)
+[![List](https://img.shields.io/badge/List%20All%20Ideas-0476d9?style=for-the-badge)](../../issues)
+
 Here is a place that I keep my project ideas which most of them will be never
 implemented.
 
@@ -9,6 +12,41 @@ implemented.
 ## Getting Started
 
 - [Create a new idea](../../issues/new?template=idea.md)
+- [List all ideas](../../issues)
+
+## Usage
+
+See all the [Current Project Ideas](../../issues).
+
+Filter the ideas by required time (ETA):
+
+- [`Little work`](../../labels/ETA%3A%20Little%20Work)
+- [`Medium work`](../../labels/ETA%3A%20Medium%20Work)
+- [`Much work`](../../labels/ETA%3A%20Much%20Work)
+
+Filter the ideas by complexity (Experience Level):
+
+- [`Simple`](../../labels/Complexity%3A%20Simple)
+- [`Intermediate`](../../labels/Complexity%3A%20Intermediate)
+- [`Advanced`](../../labels/Complexity%3A%20Advanced)
+
+Filter the ideas by Technology Category:
+
+- [`Futuristic Tech/Something Unique`](../../labels/Futuristic%20Tech%2FSomething%20Unique)
+- [`Design/UX`](../../labels/Design%2FUX)
+- [`Frontend/UI`](../../labels/Frontend%2FUI)
+- [`Developer Tooling`](../../labels/Developer%20Tooling)
+- [`APIs/Backend`](../../labels/APIs%2FBackend)
+- [`Web Application`](../../labels/Web%20Application)
+- [`Mobile Application`](../../labels/Mobile%20Application)
+- [`Extension/Plugin/Add-On`](../../labels/Extension%2FPlugin%2FAdd-On)
+- [`IoT`](../../labels/IoT)
+- [`AI/ML`](../../labels/AI%2FML)
+- [`AR/VR`](../../labels/AR%2FVR)
+- [`Bots`](../../labels/Bots)
+- [`Security`](../../labels/Security)
+- [`Blockchain`](../../labels/Blockchain)
+- [`Voice Assistant`](../../labels/Voice%20Assistant)
 
 ## Contributing
 

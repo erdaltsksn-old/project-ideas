@@ -31,7 +31,7 @@ Answer_here.
 
 - [Answer_here](Answer_here)
 
-## Complexity and required time
+## Complexity and Required Time
 
 ### Complexity
 
