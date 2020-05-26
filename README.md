@@ -1,4 +1,4 @@
-# Project Ideas
+# Project Ideas [![License](https://img.shields.io/badge/license-Proprietary-1ba0db)](LICENSE)
 
 [![Create](https://img.shields.io/badge/Create%20A%20New%20Idea-f27e63?style=for-the-badge)](../../issues/new?template=idea.md)
 [![List](https://img.shields.io/badge/List%20All%20Ideas-0476d9?style=for-the-badge)](../../issues)
